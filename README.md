@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm darksky6666</h1>
-<h3 align="center">A developer.</h3>
+<h1 align="left">Hi 👋, I'm darksky6666</h1>
+<h3 align="left">A developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darksky6666&label=Profile%20views&color=0e75b6&style=flat" alt="darksky6666" /> </p>
 
