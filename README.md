@@ -7,7 +7,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=darksky6666.darksky6666&left_text=Profile%20Views"  />
+  <img src="https://komarev.com/ghpvc/?username=darksky6666&label=Profile%20views&color=0e75b6&style=flat" alt="darksky6666" />
 </div>
 
 ###
